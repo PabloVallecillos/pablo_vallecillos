@@ -1,0 +1,5 @@
+**/*.d.ts
+.github
+.changeset
+node_modules
+dist
